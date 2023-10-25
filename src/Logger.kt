@@ -6,6 +6,6 @@ object Logger {
     }
 
     fun e(errorMessage: String) {
-        println("Log Error:$errorMessage")
+        println("Log Error: $errorMessage")
     }
 }
