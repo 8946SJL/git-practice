@@ -1,0 +1,15 @@
+.idea
+# Windows 사용자 디렉토리
+/AppData/
+/Local Settings/
+/My Documents/
+/NetHood/
+/OneDrive/
+/PrintHood/
+/Recent/
+/SendTo/
+/Templates/
+/시작 메뉴/
+
+# 특정 파일
+.bash_history
